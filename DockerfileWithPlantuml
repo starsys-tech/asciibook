@@ -1,0 +1,3 @@
+FROM asciibook/asciibook:0.0.5-cjk-sc
+
+RUN gem install asciidoctor-plantuml
